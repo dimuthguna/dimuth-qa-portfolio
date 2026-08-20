@@ -9,7 +9,7 @@ full-time work.
 This portfolio is being built progressively, phase by phase — each
 item below is real, working content once checked off, not a placeholder.
 
-- [ ] Test case design & documentation (SauceDemo)
+- [ ] Test case design & documentation (SauceDemo) — one bug report written (BUG-001), test cases still to come
 - [ ] SQL data-validation queries
 - [ ] API test collection (Postman)
 - [ ] JMeter performance test
