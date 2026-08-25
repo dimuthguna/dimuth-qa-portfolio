@@ -11,7 +11,7 @@ item below is real, working content once checked off, not a placeholder.
 
 - [x] Test case design & documentation (SauceDemo) — Login flow complete (5 test cases executed, 2 gaps identified for follow-up)
 - [ ] SQL data-validation queries
-- [ ] API test collection (Postman)
+- [x] API test collection (Postman) — 5 requests (GET/POST/PUT/DELETE + 404 case), 3 with automated status-code assertions
 - [ ] JMeter performance test
 - [ ] Jira Scrum project (sprint planning, backlog, defect tracking)
 - [ ] Automated UI test suite (Playwright)
