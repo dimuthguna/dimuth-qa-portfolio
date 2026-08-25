@@ -9,7 +9,7 @@ full-time work.
 This portfolio is being built progressively, phase by phase — each
 item below is real, working content once checked off, not a placeholder.
 
-- [ ] [x] Test case design & documentation (SauceDemo) — Login flow complete (5 test cases executed, 2 gaps identified for follow-up)
+- [x] Test case design & documentation (SauceDemo) — Login flow complete (5 test cases executed, 2 gaps identified for follow-up)
 - [ ] SQL data-validation queries
 - [ ] API test collection (Postman)
 - [ ] JMeter performance test
