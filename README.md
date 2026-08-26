@@ -12,7 +12,7 @@ item below is real, working content once checked off, not a placeholder.
 - [x] Test case design & documentation (SauceDemo) — Login flow complete (5 test cases executed, 2 gaps identified for follow-up)
 - [x] SQL data-validation queries — 8 queries covering filtering, joins (referential integrity), aggregation, and NULL handling, including 2 schema-verification errors caught and resolved
 - [x] API test collection (Postman) — 5 requests (GET/POST/PUT/DELETE + 404 case), 3 with automated status-code assertions
-- [ ] JMeter performance test
+- [x] Performance test (JMeter) — 10 concurrent users, 50 requests against JSONPlaceholder API, 0.00% error rate, 16ms average response time
 - [x] Jira Scrum project (sprint planning, backlog, defect tracking) — active sprint with 5 issues (3 stories, 2 bugs), 2 groomed backlog items traced to identified test gaps, defects cross-linked to bug-reports/
 - [ ] Automated UI test suite (Playwright)
 - [ ] CI pipeline (GitHub Actions) running the suite on every push
