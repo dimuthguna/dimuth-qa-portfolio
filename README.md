@@ -10,7 +10,7 @@ This portfolio is being built progressively, phase by phase — each
 item below is real, working content once checked off, not a placeholder.
 
 - [x] Test case design & documentation (SauceDemo) — Login flow complete (5 test cases executed, 2 gaps identified for follow-up)
-- [ ] SQL data-validation queries
+- [x] SQL data-validation queries — 8 queries covering filtering, joins (referential integrity), aggregation, and NULL handling, including 2 schema-verification errors caught and resolved
 - [x] API test collection (Postman) — 5 requests (GET/POST/PUT/DELETE + 404 case), 3 with automated status-code assertions
 - [ ] JMeter performance test
 - [ ] Jira Scrum project (sprint planning, backlog, defect tracking)
