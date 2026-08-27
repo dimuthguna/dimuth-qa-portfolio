@@ -14,8 +14,8 @@ item below is real, working content once checked off, not a placeholder.
 - [x] API test collection (Postman) — 5 requests (GET/POST/PUT/DELETE + 404 case), 3 with automated status-code assertions
 - [x] Performance test (JMeter) — 10 concurrent users, 50 requests against JSONPlaceholder API, 0.00% error rate, 16ms average response time
 - [x] Jira Scrum project (sprint planning, backlog, defect tracking) — active sprint with 5 issues (3 stories, 2 bugs), 2 groomed backlog items traced to identified test gaps, defects cross-linked to bug-reports/
-- [ ] Automated UI test suite (Playwright)
-- [ ] CI pipeline (GitHub Actions) running the suite on every push
+- [x] Automated UI test suite (Playwright) — 5 test cases automating SauceDemo login scenarios from test-cases/, run across Chromium/Firefox/WebKit (15 total test runs, all passing) — see [saucedemo-playwright-tests](https://github.com/dimuthguna/saucedemo-playwright-tests)
+- [x] CI pipeline (GitHub Actions) running the suite on every push — verified working, tests run automatically in the cloud on push
 
 ## About
 
