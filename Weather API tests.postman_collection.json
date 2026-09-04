@@ -1,0 +1,19 @@
+{
+  "info": {
+    "_postman_id": "8eae61ce-2fc5-4b96-b4c2-6b4547187ffd",
+    "name": "Weather API tests",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "57671731",
+    "_collection_link": "https://go.postman.co/collection/57671731-8eae61ce-2fc5-4b96-b4c2-6b4547187ffd?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Get current weather - Madrid,",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
