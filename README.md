@@ -16,7 +16,9 @@ item below is real, working content once checked off, not a placeholder.
 - [x] Jira Scrum project (sprint planning, backlog, defect tracking) — active sprint with 5 issues (3 stories, 2 bugs), 2 groomed backlog items traced to identified test gaps, defects cross-linked to bug-reports/
 - [x] Automated UI test suite (Playwright) — 5 test cases automating SauceDemo login scenarios from test-cases/, run across Chromium/Firefox/WebKit (15 total test runs, all passing) — see [saucedemo-playwright-tests](https://github.com/dimuthguna/saucedemo-playwright-tests)
 - [x] CI pipeline (GitHub Actions) running the suite on every push — verified working, tests run automatically in the cloud on push
-
+- [x] Python login checker — text-based login simulator with a three-attempt lockout, exit code and retry logic
+- [x] SQLite test-results database — stores test name, pass/fail status, and timestamp using Python's sqlite3 library, queried back to confirm storage
+- [x] Jira JQL queries — three saved queries (filter by status, filter by bug type, sort by priority) plus a named "Open Bugs" filter for ongoing defect triage
 ## About
 
 Currently working as a QA Analyst validating deliverables for
